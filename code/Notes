@@ -1,0 +1,13 @@
+== Junit Jar ==
+Be sure you have the full path to the junit jar in your classpath.  In this case:
+
+export CLASSPATH=${CLASSPATH}:/home/soo/code
+
+will suffice
+
+== Java Packages ==
+A common error, say I have
+"package graphs;
+import graphs.XX;"
+
+This will fail if the directory these files are in is NOT called graphs.

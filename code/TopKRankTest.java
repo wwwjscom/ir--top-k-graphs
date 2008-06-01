@@ -1,7 +1,6 @@
-package graphs;
+package code;
 
 import org.junit.*;
-//import junit.*;
 
 import static org.junit.Assert.*;
 

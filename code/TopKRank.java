@@ -1,4 +1,4 @@
-package graphs;
+package code;
 
 import java.sql.*;
 import javax.sql.*;
