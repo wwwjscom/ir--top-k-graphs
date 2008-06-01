@@ -1,7 +1,7 @@
 == Junit Jar ==
 Be sure you have the full path to the junit jar in your classpath.  In this case:
 
-export CLASSPATH=${CLASSPATH}:/home/soo/code
+export CLASSPATH=${CLASSPATH}:/home/soo/code/X.jar
 
 will suffice
 
