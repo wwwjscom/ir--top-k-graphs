@@ -28,6 +28,6 @@ public class TopKRankTest {
 
 	public static void main(String[] args)
 	{
-		org.junit.runner.JUnitCore.main("graphs.TopKRankTest");
+		org.junit.runner.JUnitCore.main("code.TopKRankTest");
 	}
 }
