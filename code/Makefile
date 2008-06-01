@@ -3,7 +3,7 @@ all:
 	javac -cp $(CLASSPATH):..:. TopKRankTest.java
 
 test:
-	java -cp $(CLASSPATH):.. graphs.TopKRankTest
+	java -cp $(CLASSPATH):.. code.TopKRankTest
 
 clean:
 	rm *.class
